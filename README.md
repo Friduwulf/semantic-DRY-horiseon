@@ -6,9 +6,9 @@ This project was to make an older webpage more modern by making the HTML more se
 
 ## Installation
 
-To access this application, go to :
+To access this application, go to : https://friduwulf.github.io/semantic-DRY-horiseon/
 
-![image](https://user-images.githubusercontent.com/34720583/198452645-ab96cf22-ebfb-4642-ae5e-b78473a3df76.png)
+![image](https://user-images.githubusercontent.com/34720583/198457119-b3f259b4-2a9d-49d7-9937-d0b5df92c4d1.png)
 
 ## Usage
 
